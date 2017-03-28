@@ -1,2 +1,4 @@
 # firstTry
-first try of github
+Hey Humans
+kalispera kalispera
+iMU training
